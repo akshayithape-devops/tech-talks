@@ -1,6 +1,8 @@
-## Docker Session 1 Hands-On Lab
+## Docker Session I - Hands-On Labs
 
 ### Prerequisite
+
+---
 
 Following are the prerequisite for the Hands-On Session.
 
@@ -28,46 +30,48 @@ Click on ‘ADD NEW INSTANCE’ label under Instance in the left hand side navba
 
 > Congratulations ! You have successfully setup your lab. You can click on close session if you want to close the lab.
 
+---
+
 ### Hands-On Labs
 
-## 1.Run your first container
+### Lab 1 : Run your first container
 
 1. Run a container
 2. Run multiple containers
 3. Remove the containers
 
-----------------------------------------------------------------------------------
-### Run a container :-
-Verify version of docker
+
+- Verify version of docker
 ```
 docker --version
 ```
-List docker images
+
+- List docker images
 ```
 docker images
 ```
 
-Pull tomcat docker image
+- Pull tomcat docker image
 ```
 docker pull tomcat:8.0
 ```
 
-Verify that tomcat docker image is pulled successfully or not
+- Verify that tomcat docker image is pulled successfully or not
 ```
 docker images
 ```
 
-Run container A
+- Run container A
 ```
 docker run -d -p 8080:8080 --name containerA tomcat:8.0 
 ```
 
-List running Docker processes
+- List running Docker processes
 ```
 docker ps
 ```
 
-Test the application deployed in a container
+- Test the application deployed in a container
 ```
 curl http://localhost:8080
 ```
