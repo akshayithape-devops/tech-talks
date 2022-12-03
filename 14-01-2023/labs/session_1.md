@@ -40,6 +40,7 @@ Click on ‘ADD NEW INSTANCE’ label under Instance in the left hand side navba
 2. Run multiple containers
 3. Remove the containers
 
+#### 1. Run a container
 
 - Verify version of docker
 ```
@@ -76,46 +77,46 @@ docker ps
 curl http://localhost:8080
 ```
 
-----------------------------------------------------------------------------------
-###  Run multiple containers :-
+#### 2. Run multiple containers
 
-Pull java docker image
+- Pull java docker image
 ```
 docker pull openjdk:8
 ```
 
-Run container B
+- Run container B
 ```
 docker run --name containerB openjdk:8
 ```
 
-List all docker processes
+- List all docker processes
 ```
 docker ps -a
 ```
 
-----------------------------------------------------------------------------------
-###  Remove the containers :-
+#### 3. Remove the containers
 
-List all docker processes
+- List all docker processes
 ```
 docker ps -a
 ```
 
-Stop running container
+- Stop running container
 ```
 docker stop containerA
 ```
 
-List all docker processes
+- List all docker processes
 ```
 docker ps -a
 ```
-Remove all containers
+
+- Remove all containers
 ```
 docker rm containerA containerB
 ```
-Verify whether docker containers removed or not 
+
+- Verify whether docker containers removed or not 
 ```
 docker ps -a
 ```
