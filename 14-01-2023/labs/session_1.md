@@ -40,6 +40,8 @@ Click on ‘ADD NEW INSTANCE’ label under Instance in the left hand side navba
 2. Run multiple containers
 3. Remove the containers
 
+---
+
 #### 1. Run a container
 
 - Verify version of docker
@@ -333,6 +335,8 @@ docker system prune
 ```
 docker rmi -f $(docker images)
 ```
+
+---
 
 ### Challenge : Run Container For HTML Page
 
