@@ -31,7 +31,7 @@ This contains the public talk(Meetup) presentation slides.
     - [Meetup - Photos](https://github.com/akshayithape-devops/Mastering-Docker/tree/master/photos/20-01-2023)
 
 - Meetup #2 (28/01/2023) - `Git with Bitbucket Cloud` at [RedHat, Pune](https://www.redhat.com/en)
-    - [My Talk - Docker Image Security Best Practices - Slide](./28-02-2023/GIT%20Internals%20%26%20Bitbucket%20Cloud.pdf)
+    - [My Talk - Git with Bitbucket Cloud - Slide](./28-02-2023/GIT%20Internals%20%26%20Bitbucket%20Cloud.pdf)
     - [Demo Lab](./28-02-2023/GIT_Internals_Demo.pdf)
     - [Event - Photo](./28-02-2023/photos/)
     - [Meetup Link](https://ace.atlassian.com/events/details/atlassian-pune-presents-git-with-bitbucket-cloud/)
