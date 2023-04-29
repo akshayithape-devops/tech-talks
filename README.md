@@ -56,6 +56,6 @@ This contains the public talk(Meetup) presentation slides.
     - [Meetup Link](https://www.meetup.com/puneawsug/events/292386648/)
 
 - Meetup #6 (09/04/2023) - `Docker & CNCF Pune meet-up - Apr'23 (Docker birthday Celebration)` at [VMware, Pune](https://www.vmware.com/)
-    - [My Talk - Crafting killer containers by following best practices - Slide](./09-04-2023/Crafting_Killer_Containers_By_Following_Best_Practices.pdf)
+    - [My Talk - Crafting Killer Containers By Following Best Practices - Slide](./09-04-2023/Crafting_Killer_Containers_By_Following_Best_Practices.pdf)
     - [Event - Photo](./09-04-2023/Docker_10th_Bday.png)
     - [Meetup Link](https://www.meetup.com/docker-pune/events/292296130/)
