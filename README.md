@@ -41,3 +41,17 @@ This contains the public talk(Meetup) presentation slides.
     - [Hands-On Repository](https://github.com/akshayithape-devops/Mastering-Ansible)
     - [Meetup - Photos](https://github.com/akshayithape-devops/Mastering-Ansible/tree/master/photos/25-02-2023)
     - [Meetup Link](https://www.meetup.com/Ansible-Pune/events/290492160/)
+
+- Meetup #4 (11/03/2023) - `Part II : Docker Deep Dive` at [Securly Software, Pune](https://www.securly.com/)
+
+    - [My Talk : Part II : Docker Deep Dive - Slide](https://github.com/akshayithape-devops/Mastering-Docker/blob/master/slides/Part_II_Docker_Deep_Dive.pdf)
+    - [Hands-On Repository](https://github.com/akshayithape-devops/Mastering-Docker)
+    - [Meetup - Photos](https://github.com/akshayithape-devops/Mastering-Docker/blob/master/photos/11-03-2023/Part2-Docker-Deep-Dive.gif)
+    - [Meetup Link](https://www.meetup.com/pune-developers-community/events/290981224/)
+
+- Meetup #5 (08/04/2023) - `Its All About Containers !!! - AWS UG Pune April Meet` at [Eastern Enterprise, Pune](https://www.easternenterprise.com/)
+    - [My Talk - ECS Deployment Demystified: A Practical Approach - Slide](./08-04-2023/ECS_Deployment_Demystified_A_Practical_Approach.pdf)
+    - [Demo Lab](https://github.com/akshayithape-devops/reactjs-go-mysql-sample-app)
+    - [Event - Photo](./08-04-2023/EE-AWS-Meetup.png)
+    - [Meetup Link](https://www.meetup.com/puneawsug/events/292386648/)
+
